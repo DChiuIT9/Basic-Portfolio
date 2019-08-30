@@ -1,0 +1,35 @@
+body {
+    box-sizing: border-box;
+    width: 960px;
+}
+#top {
+    height: 100px;
+}
+#top_1 {
+    background: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    text-align: center;
+    color: white;
+    width: 25%;
+    float: left;
+}
+#top_2 {
+    width: 75%;
+    text-align: right;
+    float: right;
+}
+
+#bottom {
+    
+}
+header {
+    color: #4aaaa5;
+}
+#portrait {
+    margin-right: 20px;
+    float: left;
+}
+p {
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
